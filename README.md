@@ -3,6 +3,9 @@
 - github action을 이용해서 cicd 를 자동화하고 추가로 auto versioning 과 notion versioning 으로 patch note 를 갱신하는 방법까지 추가했습니다.
 - 아래 참고 링크에 더 자세한 내용이 담겨있습니다.
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow" />
+
+
 ## CICD 자동화 ( checkout , set up node , build )
 - ci/cd 의 기본 개념과 간단한 적용을 다루고 있습니다. [참고 문서](https://velog.io/@k1my3ch4n/github-actions%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-cicd-%EC%9E%90%EB%8F%99%ED%99%94)
 
